@@ -1,0 +1,7 @@
+{
+    "member-access": true,
+    "no-namespace": true,
+    "no-var-requires": true,
+    "promise-function-async": true,
+    "no-use-before-declare": true
+}
