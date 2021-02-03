@@ -1,0 +1,24 @@
+{
+  "name": "media",
+  "version": "0.0.1",
+  "description": "audiocontext package",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerNote/media.git"
+  },
+  "keywords": [
+    "media",
+    "recoder",
+    "player"
+  ],
+  "author": "minyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerNote/media/issues"
+  },
+  "homepage": "https://github.com/developerNote/media#readme"
+}
